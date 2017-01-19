@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FCMApp</string>
+    <string name="strtvfcm">Welcome To FCM Application!</string>
+    <string name="strbtnfcm">Click For Token</string>
+    <string name="strbtngrupfcm">Click For Group Token</string>
+
+</resources>
